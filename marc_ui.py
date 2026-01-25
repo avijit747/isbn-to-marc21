@@ -1436,7 +1436,7 @@ def main():
     global single_output_var, dark_mode_var, write_mrc_var, write_mrk_var, org_code_var
 
     root = tk.Tk()
-    root.title("Excel to MARC21 Converter")
+    root.title("ISBN to MARC21 Converter")
     root.geometry("1020x430")
 
     style = ttk.Style()
@@ -1513,3 +1513,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
