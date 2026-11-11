@@ -1,4 +1,4 @@
-# marc_ui22.py - v22: rewritten edition (250) rules after the manual audit; otherwise identical to marc_ui21.py
+# marc_ui22.py
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import json
